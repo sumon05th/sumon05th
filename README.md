@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sumonkrdas" target="blank"><img src="https://img.shields.io/twitter/follow/sumonkrdas?logo=twitter&style=for-the-badge" alt="sumonkrdas" /></a> </p>
 
-- 🎓 I’m currently **2nd Year CSE Undergraduate at National Institute of Technology,Silchar**
+- 🎓 I’m currently **3nd Year CSE Undergraduate at National Institute of Technology,Silchar**
 
 - 🌱 I’m currently learning **JavaScript**
 
