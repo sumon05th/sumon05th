@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sumonkrdas" target="blank"><img src="https://img.shields.io/twitter/follow/sumonkrdas?logo=twitter&style=for-the-badge" alt="sumonkrdas" /></a> </p>
 
-- 🎓 I’m currently **3nd Year CSE Undergraduate at National Institute of Technology,Silchar**
+- 🎓 I’m currently **3rd Year CSE Undergraduate at National Institute of Technology,Silchar**
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -21,7 +21,7 @@
 <a href="https://instagram.com/sumon_kr_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumon_kr_das" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sumon20_ug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sumon20_ug" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sumonkrdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sumonkrdas" height="30" width="40" /></a>
-<a href="https://discord.gg/2012069_Sumon Kumar Das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2012069_Sumon Kumar Das" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/2012069_Sumon Kumar Das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2012069_Sumon Kumar Das" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
