@@ -9,7 +9,7 @@
 
 - 🎓 I’m currently **3rd Year CSE Undergraduate at National Institute of Technology,Silchar**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **sumonkumardas11th@gmail.com**
 
