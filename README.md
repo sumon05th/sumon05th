@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sumon05th.github.io/portfolio_skd.gihub.io/](https://sumon05th.github.io/portfolio_skd.gihub.io/)
 
-- 💬 Ask me about **MERN Stacks,DSA**
+- 💬 Ask me about **MERN Stacks,DSA,CP**
 
 - 📫 How to reach me **sumonkumardas11th@gmail.com**
 
