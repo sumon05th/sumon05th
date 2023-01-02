@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://sumon05th.github.io/portfolio_skd.gihub.io/](https://sumon05th.github.io/portfolio_skd.gihub.io/)
+- 👨‍💻 All of my projects are available at [https://rb.gy/gyjeuh/](https://rb.gy/gyjeuh)
 
 - 💬 Ask me about **MERN Stacks,DSA,CP**
 
