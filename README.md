@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sumonkumardas11th@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1E1b-EoPPfDW83AVarj_qR2GXPymhxlvq/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1E1b-EoPPfDW83AVarj_qR2GXPymhxlvq/view?usp=sharing)
 
 - ⚡ Fun fact **I love learning new Technology**
 
