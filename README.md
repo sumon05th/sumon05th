@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/sumonkrdas" target="blank"><img src="https://img.shields.io/twitter/follow/sumonkrdas?logo=twitter&style=for-the-badge" alt="sumonkrdas" /></a> </p>
 
-- 🎓 I’m currently [Final Year CSE Undergraduate at National Institute of Technology,Silchar](http://www.nits.ac.in/)
+- 🎓 I’m currently [Alma Mater National Institute of Technology,Silchar](http://www.nits.ac.in/)
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **App Development**
 
 - 👨‍💻 All of my projects are available at [https://rb.gy/gyjeuh/](https://rb.gy/gyjeuh)
 
