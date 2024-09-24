@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sumonkrdas" target="blank"><img src="https://img.shields.io/twitter/follow/sumonkrdas?logo=twitter&style=for-the-badge" alt="sumonkrdas" /></a> </p>
 
-- 🎓 B.Tech CSE - [ National Institute of Technology,Silchar](http://www.nits.ac.in/)
+- 🎓 B.Tech CSE'24 - [ National Institute of Technology,Silchar](http://www.nits.ac.in/)
 
 - 🌱 I’m currently learning **App Development**
 
